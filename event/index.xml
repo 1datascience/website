@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Events on From Ordinary to Extraordinary using Super Simple, Super Easy Techniques</title>
+    <link>https://1datascience.github.io/website/event/</link>
+    <description>Recent content in Our Events on From Ordinary to Extraordinary using Super Simple, Super Easy Techniques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 1DataScience.com All rights reserved.</copyright>
+    <lastBuildDate>Thu, 15 Jul 2021 10:30:17 +0530</lastBuildDate><atom:link href="https://1datascience.github.io/website/event/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootcamp in Data Science in Hindi</title>
+      <link>https://1datascience.github.io/website/event/event-1/</link>
+      <pubDate>Thu, 15 Jul 2021 10:30:17 +0530</pubDate>
+      
+      <guid>https://1datascience.github.io/website/event/event-1/</guid>
+      <description>About Event This is an online event conducted in Hindi to educate students about the importance of Data Science in their carrier and lives.</description>
+    </item>
+    
+  </channel>
+</rss>

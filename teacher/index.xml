@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Mentors on From Ordinary to Extraordinary using Super Simple, Super Easy Techniques</title>
+    <link>https://1datascience.github.io/website/teacher/</link>
+    <description>Recent content in Our Mentors on From Ordinary to Extraordinary using Super Simple, Super Easy Techniques</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 1DataScience.com All rights reserved.</copyright><atom:link href="https://1datascience.github.io/website/teacher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manuj Chandra</title>
+      <link>https://1datascience.github.io/website/teacher/manuj-chandra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://1datascience.github.io/website/teacher/manuj-chandra/</guid>
+      <description>About Me When I am not playing with Data or my daughter, I love to play retro video games, explore and learn emerging technologies, study probability and statistics, analyze risk markets and trade options.</description>
+    </item>
+    
+  </channel>
+</rss>
