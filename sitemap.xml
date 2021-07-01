@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1datascience.github.io/website/event/event-1/</loc>
+    <loc>https://1datascience.github.io/website/event/21.07.15-cu-online/</loc>
     <lastmod>2021-07-15T10:30:17+05:30</lastmod>
   </url><url>
     <loc>https://1datascience.github.io/website/</loc>
@@ -10,6 +10,33 @@
   </url><url>
     <loc>https://1datascience.github.io/website/event/</loc>
     <lastmod>2021-07-15T10:30:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/notice/21.07.01/</loc>
+    <lastmod>2021-07-01T11:15:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/notice/</loc>
+    <lastmod>2021-07-01T11:15:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/tags/ai/</loc>
+    <lastmod>2021-07-01T10:20:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/blog/</loc>
+    <lastmod>2021-07-01T10:20:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/categories/</loc>
+    <lastmod>2021-07-01T10:20:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/categories/data-science/</loc>
+    <lastmod>2021-07-01T10:20:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/tags/ml/</loc>
+    <lastmod>2021-07-01T10:20:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/tags/</loc>
+    <lastmod>2021-07-01T10:20:17+05:30</lastmod>
+  </url><url>
+    <loc>https://1datascience.github.io/website/blog/the-genesis-post/</loc>
+    <lastmod>2021-07-01T10:20:17+05:30</lastmod>
   </url><url>
     <loc>https://1datascience.github.io/website/course/course-1/</loc>
     <lastmod>2021-06-27T15:00:17+05:30</lastmod>
@@ -53,18 +80,6 @@
     <loc>https://1datascience.github.io/website/course/course-13/</loc>
     <lastmod>2021-06-27T14:48:17+05:30</lastmod>
   </url><url>
-    <loc>https://1datascience.github.io/website/tags/ai/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://1datascience.github.io/website/categories/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://1datascience.github.io/website/categories/data-science/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://1datascience.github.io/website/blog/blog-post-1/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
     <loc>https://1datascience.github.io/website/research/research-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
@@ -74,22 +89,7 @@
     <loc>https://1datascience.github.io/website/research/research-3/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
-    <loc>https://1datascience.github.io/website/blog/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://1datascience.github.io/website/tags/ml/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://1datascience.github.io/website/notice/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
     <loc>https://1datascience.github.io/website/research/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://1datascience.github.io/website/tags/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-  </url><url>
-    <loc>https://1datascience.github.io/website/notice/notice-1/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url><url>
     <loc>https://1datascience.github.io/website/about/</loc>
