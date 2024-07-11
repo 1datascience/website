@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2024 Sawy Technology LLP. All rights reserved.</copyright>
-    <lastBuildDate>Sun, 27 Jun 2021 15:00:17 +0530</lastBuildDate><atom:link href="https://1datascience.github.io/website/course/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jul 2024 14:50:17 +0530</lastBuildDate><atom:link href="https://1datascience.github.io/website/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Building LLM powered APPs (Coding Based)</title>
+      <link>https://1datascience.github.io/website/course/course-llm-apps/</link>
+      <pubDate>Thu, 04 Jul 2024 14:50:17 +0530</pubDate>
+      
+      <guid>https://1datascience.github.io/website/course/course-llm-apps/</guid>
+      <description>Introduction to Building LLM powered APPs In today&amp;rsquo;s rapidly evolving technology ecosystem, Large Language Models (LLMs) stand as a significant advancement in the realm of AI.</description>
+    </item>
+    
+    <item>
+      <title>Programming Effectively with Generative AI (Code Based)</title>
+      <link>https://1datascience.github.io/website/course/course-copilot/</link>
+      <pubDate>Wed, 03 Jul 2024 14:49:17 +0530</pubDate>
+      
+      <guid>https://1datascience.github.io/website/course/course-copilot/</guid>
+      <description>Introduction The world of programming is rapidly evolving. Generative AI tools, like Github Copilot, are transforming how developers approach their work.</description>
+    </item>
+    
+    <item>
+      <title>Generative AI for Marketing Professionals (No Code)</title>
+      <link>https://1datascience.github.io/website/course/course-genai-marketing/</link>
+      <pubDate>Tue, 02 Jul 2024 14:48:17 +0530</pubDate>
+      
+      <guid>https://1datascience.github.io/website/course/course-genai-marketing/</guid>
+      <description>About the Course Unleash the Power of Generative AI in Your Marketing Campaigns: A Course Introduction</description>
+    </item>
+    
+    <item>
+      <title>Prompt Engineeting Masterclass (No Code)</title>
+      <link>https://1datascience.github.io/website/course/course-prompt-engineering-masterclass/</link>
+      <pubDate>Mon, 01 Jul 2024 14:51:17 +0530</pubDate>
+      
+      <guid>https://1datascience.github.io/website/course/course-prompt-engineering-masterclass/</guid>
+      <description>About the Course Welcome to the Age of Generative AI! The world is on the cusp of a new era, powered by the transformative potential of generative artificial intelligence (AI).</description>
+    </item>
+    
     <item>
       <title>Data Science Bootcamp</title>
       <link>https://1datascience.github.io/website/course/course-1-bootcamp/</link>
